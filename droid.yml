@@ -1,0 +1,9 @@
+project:
+    name: "droid/apache-php5"
+    description: "Install Apache 2 with PHP 5 and some extentions"
+
+variables:
+    module_apache_php5_extras: ""
+
+tasks:
+    - "apt-get:install": package="apache2 php5 {{ module_apache_php5_extras }}"

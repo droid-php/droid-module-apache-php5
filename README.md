@@ -5,8 +5,7 @@ please see [droidphp.com](http://droidphp.com).
 
 The steps involved are:-
 
-1. Update platform packages.
-2. Install apache2 and php5 packages and other packages as sepecified.
+1. Install apache2 and php5 packages and other packages as sepecified.
 
 
 ## Assumptions

@@ -7,9 +7,6 @@ variables:
 
 tasks:
     -
-      name: "Update package index"
-      command: "apt-get:update"
-    -
       name: "Install apache2 and php5 packages"
       command: "apt-get:install"
       arguments:

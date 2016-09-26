@@ -9,5 +9,6 @@ tasks:
     -
       name: "Install apache2 and php5 packages"
       command: "apt-get:install"
+      sudo: true
       arguments:
           package: "apache2 php5 {{ module_apache_php5_extras }}"

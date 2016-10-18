@@ -1,4 +1,4 @@
-# Droid Module: droid/apache-php5
+# Droid Module: apache-php5
 
 Install Apache 2 with PHP 5 and some extentions. For more information on Droid,
 please see [droidphp.com](http://droidphp.com).
